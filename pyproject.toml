@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "nlp-template"
+version = "0.1.0"
+description = ""
+authors = ["acharyamsg <acharya.prabhakar@msg.group>"]
+readme = "README.md"
+packages = [{include = "nlp_template"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
