@@ -1,0 +1,7 @@
+{
+    "project_name": "myproject",
+    "package_name": "mypackage",
+    "verbose_project_name": "Verbose project name for README.md file",
+    "full_name": "Your Name",
+    "project_description": "Description for README.md file"
+}
